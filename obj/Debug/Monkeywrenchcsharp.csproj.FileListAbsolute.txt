@@ -1,0 +1,7 @@
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\bin\Debug\Monkeywrenchcsharp.exe.config
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\bin\Debug\Monkeywrenchcsharp.exe
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\bin\Debug\Monkeywrenchcsharp.pdb
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\obj\Debug\Monkeywrenchcsharp.csprojAssemblyReference.cache
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\obj\Debug\Monkeywrenchcsharp.csproj.CoreCompileInputs.cache
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\obj\Debug\Monkeywrenchcsharp.exe
+C:\Users\JamByte\source\repos\Monkeywrenchcsharp\Monkeywrenchcsharp\obj\Debug\Monkeywrenchcsharp.pdb
